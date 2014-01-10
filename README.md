@@ -3,4 +3,4 @@
 This is where the manifesto is. It is goddamn amazing.
 
 ###Classes
-#####(ManagedView)[https://foo]
+#####[ManagedView](https://github.com/taskrabbit/hazel-js/wiki/Managed-View)
